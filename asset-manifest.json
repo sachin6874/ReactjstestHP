@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ReactjstestHP/static/css/main.d03d61ae.css",
-    "main.js": "/ReactjstestHP/static/js/main.83d32519.js",
-    "index.html": "/ReactjstestHP/index.html",
-    "main.d03d61ae.css.map": "/ReactjstestHP/static/css/main.d03d61ae.css.map",
-    "main.83d32519.js.map": "/ReactjstestHP/static/js/main.83d32519.js.map"
+    "main.css": "/static/css/main.d03d61ae.css",
+    "main.js": "/static/js/main.83d32519.js",
+    "index.html": "/index.html",
+    "main.d03d61ae.css.map": "/static/css/main.d03d61ae.css.map",
+    "main.83d32519.js.map": "/static/js/main.83d32519.js.map"
   },
   "entrypoints": [
     "static/css/main.d03d61ae.css",
